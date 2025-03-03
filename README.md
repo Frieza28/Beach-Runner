@@ -1,5 +1,5 @@
 # Beach Runner
-------
+---
 Este projeto de grupo tinha como objetivo utilizar 4 objetos com o tema da praia e criar um jogo com eles. 
 
 A nossa ideia foi o Beach Runner, um jogo parecido com o Temple Run em que os objetos vêem em direção ao player e este tem de esquivar deles.
